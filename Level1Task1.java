@@ -6,7 +6,7 @@ public class Level1Task1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Введите размер массива: ");
+        System.out.print("Введите размер массива : ");
         int size = sc.nextInt();
 
         int[] arr = new int [size];
